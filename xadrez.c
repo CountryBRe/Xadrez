@@ -61,7 +61,6 @@ int main() {
     printf("\nMovimento da Rainha (8 casas para Esquerda):\n");
     moverRainha(casasRainha);
 
-    // Nível Aventureiro – Cavalo com loops aninhados
     printf("\nMovimento do Cavalo (duas casas para Baixo, uma para Esquerda):\n");
     for (int i = 0; i < 2; i++) {  // Duas casas para baixo
         printf("Baixo\n");
