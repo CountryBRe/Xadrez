@@ -28,14 +28,6 @@ Aprimorei todo o programa com:
 
 ---
 
-## ✅ Como compilar e executar
-
-### 1. Compilar o código
-Use o GCC no terminal:
-
-```bash
-gcc xadrez_movimentos.c -o xadrez# Xadrez
-
 👨‍💻 Feito por: Rodrigo Gomes
 
 📘 Disciplina: Introdução à Programação de Computadores
@@ -43,3 +35,11 @@ gcc xadrez_movimentos.c -o xadrez# Xadrez
 🏫 Faculdade: Estácio de Sá
 
 👨‍🏫 Professor: Sérgio Cardoso e Nathan de Freitas Alves
+
+## ✅ Como compilar e executar
+
+### 1. Compilar o código
+Use o GCC no terminal:
+
+```bash
+gcc xadrez_movimentos.c -o xadrez# Xadrez
