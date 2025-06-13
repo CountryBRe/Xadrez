@@ -30,7 +30,6 @@ void bispoComLoopsAninhados(int linhas, int colunas) {
     }
 }
 
-// Movimento complexo do Cavalo (nível mestre)
 void moverCavaloComplexo() {
     printf("\nMovimento do Cavalo (duas casas para cima, uma para a direita):\n");
 
@@ -49,7 +48,6 @@ void moverCavaloComplexo() {
 
 // Programa principal
 int main() {
-    // Nível Novato – usando recursividade em vez de for/while (como evolução)
     int casasTorre = 5;
     int casasBispo = 5;
     int casasRainha = 8;
@@ -74,7 +72,6 @@ int main() {
         }
     }
 
-    // Nível Mestre – Cavalo com lógica aprimorada e Bispo com loops extras
     moverCavaloComplexo();
 
     printf("\nMovimento adicional do Bispo com loops aninhados:\n");
